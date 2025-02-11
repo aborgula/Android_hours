@@ -1,1 +1,1 @@
-Aplikacja mobilna ukazująca godzinę w różnych miastach na świecie. 
+Aplikacja mobilna pokazująca godzinę w różnych miastach na świecie. 
